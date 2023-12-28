@@ -13,7 +13,7 @@
 
 ##### Programming languages ### DataBase ## SKILLS ## FRAMEWORKS
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js, bootstrap,github,html,mysql,spring )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,github,html,mysql,spring)](https://skillicons.dev)
 
 
 
