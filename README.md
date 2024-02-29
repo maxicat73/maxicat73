@@ -1,5 +1,5 @@
 ### Mi nombre es Pablo Gimenez 👋
-#### Desarrollador web junior full-stack 💻
+#### Desarrollador web Backend💻
 
 #### Actualmente me dedico a:
 
