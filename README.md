@@ -1,5 +1,6 @@
 ### Mi nombre es Pablo Gimenez 👋
-#### Desarrollador web Backend💻
+#### Desarrollador web Backend Java
+💻
 
 #### Actualmente me dedico a:
 
